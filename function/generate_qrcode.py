@@ -13,7 +13,6 @@ def generate_qrcode_main(personal):
         date_of_birth = personal.pop(DATE_OF_BIRTH, "")
         gender = personal.pop(GENDER, "")
         job_title = personal.pop(JOB_TITLE, "")
-        google_map = personal.pop(GOOGLE_MAP, "")
         company_name = personal.pop(COMPANY_NAME, "")
         about = personal.pop(ABOUT, "")
         website = personal.pop(WEBSITE, "")
