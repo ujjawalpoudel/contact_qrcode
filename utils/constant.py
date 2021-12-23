@@ -22,3 +22,14 @@ POSTAL_CODE = "postal_code"
 POSTOFFICE_BOX = "postoffice_box"
 PHONE_NUMBER = "phone_number"
 EMAIL = "email"
+
+REQUIRED_VARIABLE = [
+    FULLNAME,
+    GENDER,
+    EMAIL,
+    PHONE_NUMBER,
+    CITY,
+    DISTRICT,
+    COUNTRY,
+    PALIKA,
+]
