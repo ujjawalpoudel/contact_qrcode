@@ -29,6 +29,7 @@ This project helps you to generate your personal qr code so that you can easily 
 
 - [@ujjawalpoudel](https://github.com/ujjawalpoudel)
 ## Run Locally
+# This installation process is for Linux OS(only)
 
 Clone the project
 
